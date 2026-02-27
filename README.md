@@ -88,7 +88,8 @@ This dashboard demonstrates how data-driven forecasting and visualization can im
 ---
 
 ## 🔹 Dashboard Preview
-
+###  Executive Overview Page
 ![Dashboard Overview](dashboard_screenshots/Executive%20Overview.png)
 
+###  Demand Seasonality Page
 ![Demand & Seasonality](dashboard_screenshots/Demand%20%26%20Seasonality.png)
